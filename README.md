@@ -1,1 +1,2 @@
-# git_trail-3
+This is my index page.
+Today i am learning about git.
